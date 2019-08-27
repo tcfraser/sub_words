@@ -1,0 +1,46 @@
+a > an > ant > anti > antic > antics
+a > an > ant > anti > antic
+a > am > amp > amps
+a > an > ana > anal
+a > an > ant > ante
+a > an > ant > anti
+a > an > ant > ants
+a > as > ash > ashy
+a > as > ask > asks
+a > as > asp > asps
+i > im > imp > impi
+i > im > imp > imps
+i > in > ink > inks
+i > in > ink > inky
+i > in > inn > inns
+a > ah > aha
+a > am > amp
+a > an > ana
+a > an > and
+a > an > ant
+a > an > any
+a > as > ash
+a > as > ask
+a > as > asp
+a > as > ass
+a > at > ate
+i > id > ids
+i > if > ifs
+i > im > imp
+i > in > ink
+i > in > inn
+i > in > ins
+i > it > its
+a > ah
+a > am
+a > an
+a > as
+a > at
+i > id
+i > if
+i > im
+i > in
+i > is
+i > it
+a
+i
